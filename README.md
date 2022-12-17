@@ -1,4 +1,4 @@
-#SIMPLE SHELL PROJECT
+# SIMPLE SHELL PROJECT
 
 ***Emmanuel Major and Nathaniel Akowan***
 
