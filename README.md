@@ -1,12 +1,12 @@
+#SIMPLE SHELL PROJECT
+
+***Emmanuel Major and Nathaniel Akowan***
 
 
-# Ajadi Marvellous & Odediran Philip Oluseyi
-
-![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
 ### Description
 
-A simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
+This is a simple UNIX command line interpreter that replicates functionalities of the simple shell. Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
 
 ### Installation
 
@@ -46,4 +46,4 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [Ajadi Marvellous](https://github.com/Optimustprime) and [Odediran Philip Oluseyi](https://github.com/Akin125).
+All code written by [Emmanuel Major](https://github.com/baranosh) and [Nathaniel Akowan](https://github.com/AkowanNathael).
